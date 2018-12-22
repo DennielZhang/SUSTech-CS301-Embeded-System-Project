@@ -1,0 +1,15 @@
+.\objects\misc.o: D:\Programfile\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\StdPeriph_Driver\src\misc.c
+.\objects\misc.o: .\STM32F10x_FWLib\inc\misc.h
+.\objects\misc.o: D:\Programfile\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\stm32f10x.h
+.\objects\misc.o: .\CORE\core_cm3.h
+.\objects\misc.o: D:\Programfile\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\misc.o: D:\Programfile\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\system_stm32f10x.h
+.\objects\misc.o: D:\finalproject\RTE\Device\STM32F103RC\stm32f10x_conf.h
+.\objects\misc.o: D:\finalproject\RTE\RTE_Components.h
+.\objects\misc.o: .\STM32F10x_FWLib\inc\stm32f10x_adc.h
+.\objects\misc.o: D:\Programfile\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\stm32f10x.h
+.\objects\misc.o: .\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+.\objects\misc.o: .\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+.\objects\misc.o: .\STM32F10x_FWLib\inc\stm32f10x_tim.h
+.\objects\misc.o: .\STM32F10x_FWLib\inc\stm32f10x_usart.h
+.\objects\misc.o: .\STM32F10x_FWLib\inc\misc.h
